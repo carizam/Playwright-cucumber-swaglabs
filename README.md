@@ -1,5 +1,7 @@
 # Playwright-cucumber-swaglabs
 
+Demo for automation study: https://www.saucedemo.com/
+
 This repository contains automated tests for the Swag Labs website using Playwright and Cucumber.js.
 
 ## Project Overview
